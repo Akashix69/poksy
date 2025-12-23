@@ -1,8 +1,15 @@
 {
- "version": "1.0.5",
+ "version": "1.0.8",
  "news": [
-  "• Serwer pomyślnie wystartował!",
-  "• Dodano nowe Cobblemony",
-  "• Sklep jest już dostępny"
+  {
+   "title": "NOWY EVENT!",
+   "description": "Złap Mewtwo w ten weekend!",
+   "image": "https://img.pokemondb.net/sprites/home/normal/mewtwo.png"
+  },
+  {
+   "title": "PRZERWA TECHNICZNA",
+   "description": "Dodaliśmy system skinów.",
+   "image": "https://cdn-icons-png.flaticon.com/512/2910/2910795.png"
+  }
  ]
 }
