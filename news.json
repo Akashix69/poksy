@@ -1,30 +1,9 @@
 {
- "version": "1.0.11",
- "news": [
-  {
-   "title": "Rabka zdaaaroj",
-   "description": "Do gry zawitały legendarne ptaki!",
-   "image": "https://img.pokemondb.net/sprites/home/normal/articuno.png"
-  },
-  {
-   "title": "POPRAWKI",
-   "description": "Zwiększono stabilność połączenia z serwerem.",
-   "image": "https://cdn-icons-png.flaticon.com/512/2910/2910795.png"
-  },
-   {
-   "title": "POPRAWKI",
-   "description": "Zwiększono stabilność połączenia z serwerem.",
-   "image": "https://cdn-icons-png.flaticon.com/512/2910/2910795.png"
-  },
-   {
-   "title": "POPRAWKI",
-   "description": "Zwiększono stabilność połączenia z serwerem.",
-   "image": "https://cdn-icons-png.flaticon.com/512/2910/2910795.png"
-  },
-   {
-   "title": "POPRAWKI",
-   "description": "Zwiększono stabilność połączenia z serwerem.",
-   "image": "https://cdn-icons-png.flaticon.com/512/2910/2910795.png"
-  }
- ]
+  "entries": [
+    {
+      "title": "NOWA AKTUALIZACJA",
+      "description": "Dodaliśmy nowe Pokemony!",
+      "image": "https://link-do-obrazka.jpg"
+    }
+  ]
 }
